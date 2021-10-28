@@ -1,1 +1,4 @@
-# project_code2
+# maven-project
+
+Simple Maven Project conflict
+
